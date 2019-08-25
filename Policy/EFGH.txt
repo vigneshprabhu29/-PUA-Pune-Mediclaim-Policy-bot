@@ -1,0 +1,36 @@
+HEALTH INSURANCE CLAIM FORM
+ALL FIELDS IN THIS FORM ARE MANDATORY AND THE CLAn,1
+WILL NOT BE PROCESSED IF ANY OF THE DETAILS MISSING
+POLICY DETAILS
+Policy 11): EFGH
+Policy Start Date: 01/01/2019
+Claimant ID Number: 58972-1620-1366
+Corporate Name: BAJAJ ALLIANCE Policy End Date: 31/12/2019
+PERSONAL DETAILS OF PROPOSER
+Name of the Proposer: LEONARDO DICAPRIO
+Employee Number: 8576456422
+Date Of Joining The Policy(DOJ): 01/01/2019
+E-mail of the Proposer: leonard099@gmaiI.com
+Contact Number: 8300218766
+CLAIMANT/PATIENT DETAILS
+Name of the Patient: BRAD PITT
+Relationship With the Claimant/Patient: Parent
+Date of Birth of The Claimant:01/10/1998
+Gender : Male Age: 19
+Residential Address : 10-Galaxy Avenue,Parsons Housing Unit,
+Colorado, United States.
+CLAn,1 DETAILS
+Sum To Be Insured : 900000
+Claimed amount in words : MNE LAKHS RUPEES
+1.Provisiona1 Disease/Nature of Disease : HEART TRANSPLANTATION
+2.Date of Admission : 06/11/2019
+3.Date of Discharge : 31/12/2019
+1.
+2.
+3.
+4. ENCLOSURE CHECK LIST
+Discharge Summary
+All Bills and their Receipts
+All Reports and Prescriptions
+Certificate regarding Diagnosis Signature Of Proposer
+(LEONARDO DICAPRIO)

@@ -1,0 +1,36 @@
+1--ÆALTH INSURANCE CLAIM FORM
+ALL FIELDS IN THIS FORM ARE MANDATORY AND THE CLAIM
+WILL NOT BE PROCESSED IF ANY OF THE DETAILS MISSING
+POLICY DET AILS
+Policy 11): QRST
+Policy Start Date: 01/01/2019
+Claimant ID Number: 58972-1620-1999
+Corporate Name: BAJAJ ALLIANCE Policy End Date: 31/12/2019
+PERSONAL DETAILS OF PROPOSER
+Name of the Proposer: HARLEY QUINN
+Employee Number: 8576452611
+Date Of Joining The Policy(DOJ): 01/01/2019
+E-mail of the Proposer: puddin@gmail.com
+Contact Number: 8300216987
+CLAIMANT/PATIENT DETAILS
+Name of the Patient: THE JOKER
+Relationship With the Claimant/Patient: SPOUSE
+Date of Birth of The Claimant:01/10/1996
+Gender : Male
+Residential Address : 11-Arkham Asylum, Age: 21
+Gotham City, United States
+CLAIM DET AILS
+Sum To Be Insured : 1700000
+Claimed amount in words : SEVENTEEN LAKHS RUPEES
+1.Provisiona1 Disease/Nature of Disease : MENTAL ILLNESS
+2.Date of Admission : 09/4/2019
+3.Date of Discharge : 21/11/2019
+1.
+2.
+3.
+4. ENCLOSURE CHECK LIST
+Discharge Summary
+All Bills and their Receipts
+All Reports and Prescriptions
+Certificate regarding Diagnosis Signature Of Proposer
+(HARLEY QUINN)

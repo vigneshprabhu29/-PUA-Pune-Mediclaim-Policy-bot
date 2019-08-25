@@ -1,0 +1,36 @@
+HEALTH INSURANCE CLAIM FORM
+ALL FIELDS IN THIS FORM ARE MANDATORY AND THE CLAIM
+WILL NOT BE PROCESSED IF ANY OF THE DETAILS MISSING
+POLICY DETAILS
+Policy ID: ABCD
+Policy Start Date: 01/01/2018
+Claimant Number: 58972-1620-1365
+Corporate Name: BAJAJ ALLIANCE Policy End Date: 31/12/2018
+PERSONAL DETAILS OF PROPOSER
+Name of the Proposer: JHONSON FERNANDEZ
+Employee Number: 8576456421
+Date Of Joining The Policy(DOJ): 01/01/2018
+E-mail of the Proposer: jhonson99@emaiI.com
+Contact Number: 8300216987
+CLAIMANT/PATI ENT DETAILS
+Name of the Patient: CHRISTOPHER FERNANDEZ
+Relationship With the Claimant/Patient: Parent
+Date of Birth of The Claimant:01/10/1998
+Gender : Male Age: 19
+Residential Address : 10-GaIaxy Av enue,Parsons Housing Unit,
+Ramanathapuram,Coimbatore-641036.
+CLAIM DETAILS
+Sum To Be Insured : 1000000
+Claimed in words : TEN LAKHS RUPEES
+1.Provisiona1 Disease/Nature of Disease : HEART TRANSPLANTATION
+2.Date of Admission : 06/11/2018
+3.Date of Discharge : 31/12/2018
+1.
+2.
+3.
+4. ENCLOSURE CHECK LIST
+Discharge Summary
+All Bills and their Receipts
+All Reports and Prescriptions
+Certificate regarding Diagnosis Signature Of Proposer
+(JHONSON FERNANDEZ)

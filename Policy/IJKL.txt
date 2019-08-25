@@ -1,0 +1,36 @@
+HEALTH INSURANCE CLAIM FORM
+ALL FIELDS IN THIS FORM ARE MANDATORY AND THE CLAn,1
+WILL NOT BE PROCESSED IF ANY OF THE DETAILS MISSING
+POLICY DETAILS
+Policy 11): IJI<L
+Policy Start Date: 01/01/2019
+Claimant ID Number: 58972-1620-1367
+Corporate Name: BAJAJ ALLIANCE Policy End Date: 31/12/2019
+PERSONAL DETAILS OF PROPOSER
+Name of the Proposer: JONN WICK
+Employee Number: 8576456467
+Date Of Joining The Policy(DOJ): 01/01/2019
+E-mail of the Proposer: _iohn@gmail.com
+Contact Number: 8300216609
+CLAIMANT/PATIENT DETAILS
+Name of the Patient: KEANU REEVES
+Relationship With the Claimant/Patient: Parent
+Date of Birth of The Claimant:01/10/1998
+Gender : Male Age: 19
+Residential Address : 10-Galaxy Avenue,Parsons Housing Unit,
+Wall Street, United States.
+CLAn,1 DETAILS
+Sum To Be Insured : 1500000
+Claimed amount in words : FIFTEEN LAKHS RUPEES
+1.Provisiona1 Disease/Nature of Disease : BRAIN TUMOUR
+2.Date of Admission : 16/11/2019
+3.Date of Discharge : 31/12/2019
+1.
+2.
+3.
+4. ENCLOSURE CHECK LIST
+Discharge Summary
+All Bills and their Receipts
+All Reports and Prescriptions
+Certificate regarding Diagnosis Signature Of Proposer
+(JOHN WICK)
